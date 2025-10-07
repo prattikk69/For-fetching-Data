@@ -1,0 +1,52 @@
+[
+  {
+    "city": "Kathmandu",
+    "temperature": 22,
+    "weather": "Partly Cloudy"
+  },
+  {
+    "city": "Pokhara",
+    "temperature": 25,
+    "weather": "Sunny"
+  },
+  {
+    "city": "Biratnagar",
+    "temperature": 29,
+    "weather": "Humid and Hot"
+  },
+  {
+    "city": "Lalitpur",
+    "temperature": 23,
+    "weather": "Cloudy"
+  },
+  {
+    "city": "Butwal",
+    "temperature": 27,
+    "weather": "Mostly Sunny"
+  },
+  {
+    "city": "Nepalgunj",
+    "temperature": 31,
+    "weather": "Very Hot"
+  },
+  {
+    "city": "Dharan",
+    "temperature": 28,
+    "weather": "Clear Sky"
+  },
+  {
+    "city": "Hetauda",
+    "temperature": 26,
+    "weather": "Light Rain"
+  },
+  {
+    "city": "Janakpur",
+    "temperature": 30,
+    "weather": "Sunny"
+  },
+  {
+    "city": "Dhangadhi",
+    "temperature": 32,
+    "weather": "Hot and Dry"
+  }
+]

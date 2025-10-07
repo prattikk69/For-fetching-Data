@@ -1,7 +1,12 @@
 [
-{
-   "name" : "Prattikk",
-   "age" : "18",
-   "address" : "Gaighat"
-},
+  {
+    "name": "Pratik",
+    "age": 18,
+    "city": "Kathmandu"
+  },
+  {
+    "name": "Babe",
+    "age": 17,
+    "city": "Pokhara"
+  }
 ]

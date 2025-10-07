@@ -10,6 +10,11 @@
     "weather": "Sunny"
   },
   {
+    "city": "Jhapa",
+    "temperature": 30,
+    "weather": "Sunny"
+  },
+  {
     "city": "Biratnagar",
     "temperature": 29,
     "weather": "Humid and Hot"

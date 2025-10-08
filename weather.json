@@ -1,57 +1,54 @@
 [
-  {
-    "city": "Kathmandu",
-    "temperature": 22,
-    "weather": "Partly Cloudy"
-  },
-  {
-    "city": "Pokhara",
-    "temperature": 25,
-    "weather": "Sunny"
-  },
-  {
-    "city": "Jhapa",
-    "temperature": 30,
-    "weather": "Sunny"
-  },
-  {
-    "city": "Biratnagar",
-    "temperature": 29,
-    "weather": "Humid and Hot"
-  },
-  {
-    "city": "Lalitpur",
-    "temperature": 23,
-    "weather": "Cloudy"
-  },
-  {
-    "city": "Butwal",
-    "temperature": 27,
-    "weather": "Mostly Sunny"
-  },
-  {
-    "city": "Nepalgunj",
-    "temperature": 31,
-    "weather": "Very Hot"
-  },
-  {
-    "city": "Dharan",
-    "temperature": 28,
-    "weather": "Clear Sky"
-  },
-  {
-    "city": "Hetauda",
-    "temperature": 26,
-    "weather": "Light Rain"
-  },
-  {
-    "city": "Janakpur",
-    "temperature": 30,
-    "weather": "Sunny"
-  },
-  {
-    "city": "Dhangadhi",
-    "temperature": 32,
-    "weather": "Hot and Dry"
-  }
+  { "city": "Kathmandu", "temperature": 22, "weather": "Partly Cloudy" },
+  { "city": "Pokhara", "temperature": 25, "weather": "Sunny" },
+  { "city": "Jhapa", "temperature": 30, "weather": "Sunny" },
+  { "city": "Biratnagar", "temperature": 29, "weather": "Humid and Hot" },
+  { "city": "Lalitpur", "temperature": 23, "weather": "Cloudy" },
+  { "city": "Butwal", "temperature": 27, "weather": "Mostly Sunny" },
+  { "city": "Nepalgunj", "temperature": 31, "weather": "Very Hot" },
+  { "city": "Dharan", "temperature": 28, "weather": "Clear Sky" },
+  { "city": "Hetauda", "temperature": 26, "weather": "Light Rain" },
+  { "city": "Janakpur", "temperature": 30, "weather": "Sunny" },
+  { "city": "Dhangadhi", "temperature": 32, "weather": "Hot and Dry" },
+  { "city": "Bhaktapur", "temperature": 24, "weather": "Mostly Sunny" },
+  { "city": "Ilam", "temperature": 21, "weather": "Foggy" },
+  { "city": "Tansen", "temperature": 23, "weather": "Partly Cloudy" },
+  { "city": "Gorkha", "temperature": 22, "weather": "Cloudy" },
+  { "city": "Bharatpur", "temperature": 28, "weather": "Sunny" },
+  { "city": "Bardiya", "temperature": 31, "weather": "Hot and Humid" },
+  { "city": "Surkhet", "temperature": 29, "weather": "Clear Sky" },
+  { "city": "Khotang", "temperature": 20, "weather": "Light Rain" },
+  { "city": "Rukum", "temperature": 19, "weather": "Overcast" },
+  { "city": "Chitwan", "temperature": 27, "weather": "Mostly Sunny" },
+  { "city": "Palpa", "temperature": 22, "weather": "Cloudy" },
+  { "city": "Bhojpur", "temperature": 20, "weather": "Rain Showers" },
+  { "city": "Dhankuta", "temperature": 21, "weather": "Foggy" },
+  { "city": "Syangja", "temperature": 24, "weather": "Sunny" },
+  { "city": "Parbat", "temperature": 23, "weather": "Partly Cloudy" },
+  { "city": "Rolpa", "temperature": 20, "weather": "Cloudy" },
+  { "city": "Dolakha", "temperature": 19, "weather": "Rainy" },
+  { "city": "Sindhuli", "temperature": 25, "weather": "Sunny" },
+  { "city": "Makwanpur", "temperature": 26, "weather": "Cloudy" },
+  { "city": "Ramechhap", "temperature": 22, "weather": "Light Rain" },
+  { "city": "Nuwakot", "temperature": 23, "weather": "Partly Cloudy" },
+  { "city": "Tanahun", "temperature": 24, "weather": "Sunny" },
+  { "city": "Kaski", "temperature": 25, "weather": "Clear Sky" },
+  { "city": "Lamjung", "temperature": 22, "weather": "Cloudy" },
+  { "city": "Baglung", "temperature": 21, "weather": "Rain Showers" },
+  { "city": "Kalikot", "temperature": 28, "weather": "Hot and Dry" },
+  { "city": "Jajarkot", "temperature": 27, "weather": "Mostly Sunny" },
+  { "city": "Dailekh", "temperature": 26, "weather": "Sunny" },
+  { "city": "Salyan", "temperature": 25, "weather": "Partly Cloudy" },
+  { "city": "Pyuthan", "temperature": 24, "weather": "Cloudy" },
+  { "city": "Kapilvastu", "temperature": 30, "weather": "Hot and Humid" },
+  { "city": "Rupandehi", "temperature": 29, "weather": "Sunny" },
+  { "city": "Dang", "temperature": 28, "weather": "Clear Sky" },
+  { "city": "Siraha", "temperature": 31, "weather": "Very Hot" },
+  { "city": "Saptari", "temperature": 30, "weather": "Sunny" },
+  { "city": "Mahottari", "temperature": 29, "weather": "Humid and Hot" },
+  { "city": "Parsa", "temperature": 28, "weather": "Mostly Sunny" },
+  { "city": "Rautahat", "temperature": 27, "weather": "Cloudy" },
+  { "city": "Bara", "temperature": 26, "weather": "Light Rain" },
+  { "city": "Banke", "temperature": 32, "weather": "Hot and Dry" },
+  { "city": "Gaighat", "temperature": 27, "weather": "Sunny"}
 ]

@@ -1,5 +1,4 @@
 # For-fetching-Data
-Storing random data for project
-# Link
-
-https://prattikk69.github.io/Weather-Forcast-Project/
+Storing random weather data for project
+# Link for weather.json
+* https://raw.githubusercontent.com/prattikk69/For-fetching-Data/refs/heads/main/weather.json

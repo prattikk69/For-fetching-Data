@@ -1,0 +1,16 @@
+
+{
+    "secret":[
+        {
+            "id": 1,
+            "catagory": "Breakfast, Lunch, Snacks",
+            "title": "Boiled Potato",
+            "duration": "7-10 minutes",
+            "ingridents" : "3-4 midium size Potatos",
+            "utinsils": "Big Pot",
+            "process" : "Take 500ml water in the pot. Put the potatos in it and light it in the stove for 7-10 minutes",
+            "serving": "2-3 peoples",
+            "imageLink" : "../assets/potato.avif"
+        }
+    ]
+}

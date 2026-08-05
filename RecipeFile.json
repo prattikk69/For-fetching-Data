@@ -1,16 +1,70 @@
-
 {
-    "secret":[
+    "secret": [
         {
             "id": 1,
             "catagory": "Breakfast, Lunch, Snacks",
             "title": "Boiled Potato",
             "duration": "7-10 minutes",
-            "ingridents" : "3-4 midium size Potatos",
+            "ingridents": "3-4 midium size Potatos",
             "utinsils": "Big Pot",
-            "process" : "Take 500ml water in the pot. Put the potatos in it and light it in the stove for 7-10 minutes",
+            "process": "Take 500ml water in the pot. Put the potatos in it and light it in the stove for 7-10 minutes",
             "serving": "2-3 peoples",
-            "imageLink" : "../assets/potato.avif"
+            "imageLink": "../assets/potato.avif"
+        },
+        {
+            "id": 2,
+            "catagory": "Breakfast, Snacks",
+            "title": "Classic Scrambled Eggs",
+            "duration": "5-7 minutes",
+            "ingridents": "3 Eggs, 1 tbsp Butter, Salt and Black Pepper to taste",
+            "utinsils": "Non-stick Frying Pan, Spatula",
+            "process": "Whisk eggs in a bowl with a pinch of salt. Melt butter in the pan over medium-low heat. Pour in eggs and gently push them across the pan with a spatula until soft curds form. Remove from heat and season with black pepper.",
+            "serving": "1-2 peoples",
+            "imageLink": "../assets/scrambled_eggs.avif"
+        },
+        {
+            "id": 3,
+            "catagory": "Lunch, Dinner",
+            "title": "Garlic Butter Pasta",
+            "duration": "12-15 minutes",
+            "ingridents": "200g Spaghetti, 3 cloves Garlic (minced), 2 tbsp Butter, 1 tbsp Olive Oil, Chili Flakes, Salt",
+            "utinsils": "Pot, Frying Pan, Tongs",
+            "process": "Boil spaghetti in salted water until al dente. Heat oil and butter in a pan, add minced garlic and chili flakes, cooking until fragrant. Toss the drained pasta into the garlic butter sauce with a splash of pasta water until well coated.",
+            "serving": "2 peoples",
+            "imageLink": "../assets/pasta.avif"
+        },
+        {
+            "id": 4,
+            "catagory": "Snacks, Dinner",
+            "title": "Vegetable Grilled Sandwich",
+            "duration": "10 minutes",
+            "ingridents": "4 Bread Slices, 1 Sliced Tomato, 1 Sliced Cucumber, Butter, Cheese Slices, Oregano",
+            "utinsils": "Toaster or Pan",
+            "process": "Butter the bread slices. Layer tomato and cucumber slices on top, add a cheese slice, and sprinkle oregano. Cover with the second bread slice and grill on a pan until golden brown and crispy on both sides.",
+            "serving": "2 peoples",
+            "imageLink": "../assets/sandwich.avif"
+        },
+        {
+            "id": 5,
+            "catagory": "Breakfast, Snacks",
+            "title": "Oatmeal with Fruit",
+            "duration": "5-8 minutes",
+            "ingridents": "1 cup Rolled Oats, 2 cups Milk or Water, 1 tbsp Honey, 1 Sliced Banana, Berries",
+            "utinsils": "Small Saucepan, Spoon",
+            "process": "Combine oats and milk in a saucepan. Bring to a gentle boil over medium heat, then simmer for 3-5 minutes while stirring. Pour into a bowl, drizzle with honey, and top with banana slices and fresh berries.",
+            "serving": "1 person",
+            "imageLink": "../assets/oatmeal.avif"
+        },
+        {
+            "id": 6,
+            "catagory": "Dinner, Side Dish",
+            "title": "Pan-Seared Garlic Mushrooms",
+            "duration": "10-12 minutes",
+            "ingridents": "250g Button Mushrooms (cleaned), 2 tbsp Butter, 2 cloves Garlic (minced), Soy Sauce, Chopped Parsley",
+            "utinsils": "Skillet or Frying Pan",
+            "process": "Melt butter in a skillet over high heat. Add whole or halved mushrooms and sear without stirring for 3 minutes. Add garlic and a splash of soy sauce, tossing for another 3-4 minutes until golden. Garnish with parsley.",
+            "serving": "2-3 peoples",
+            "imageLink": "../assets/mushrooms.avif"
         }
     ]
 }

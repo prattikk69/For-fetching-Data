@@ -9,7 +9,7 @@
             "utinsils": "Big Pot",
             "process": "Take 500ml water in the pot. Put the potatos in it and light it in the stove for 7-10 minutes",
             "serving": "2-3 peoples",
-            "imageLink": "../assets/potato.avif"
+            "imageLink": "https://www.recipevibes.com/how-to-boil-potatoes-boiled-potatoes-recipe/"
         },
         {
             "id": 2,
@@ -20,7 +20,7 @@
             "utinsils": "Non-stick Frying Pan, Spatula",
             "process": "Whisk eggs in a bowl with a pinch of salt. Melt butter in the pan over medium-low heat. Pour in eggs and gently push them across the pan with a spatula until soft curds form. Remove from heat and season with black pepper.",
             "serving": "1-2 peoples",
-            "imageLink": "../assets/scrambled_eggs.avif"
+            "imageLink": "https://www.google.com/imgres?q=scrambled%20eggs&imgurl=https%3A%2F%2Fcdn.loveandlemons.com%2Fwp-content%2Fuploads%2F2021%2F05%2Fscrambled-eggs-1.jpg&imgrefurl=https%3A%2F%2Fwww.loveandlemons.com%2Fscrambled-eggs-recipe%2F&docid=oSq4UXJBT5ElqM&tbnid=6dsqU-Sf0wH1FM&vet=12ahUKEwj12ayE1qmWAxWR2TgGHRmMHKcQnPAOegQINhAA..i&w=1160&h=1702&hcb=2&ved=2ahUKEwj12ayE1qmWAxWR2TgGHRmMHKcQnPAOegQINhAA"
         },
         {
             "id": 3,
@@ -31,7 +31,7 @@
             "utinsils": "Pot, Frying Pan, Tongs",
             "process": "Boil spaghetti in salted water until al dente. Heat oil and butter in a pan, add minced garlic and chili flakes, cooking until fragrant. Toss the drained pasta into the garlic butter sauce with a splash of pasta water until well coated.",
             "serving": "2 peoples",
-            "imageLink": "../assets/pasta.avif"
+            "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYDGa1mUcD4HS6do6AVFczQOZfyGwiEbal_RaEgAJNw&s=10"
         },
         {
             "id": 4,
@@ -42,7 +42,7 @@
             "utinsils": "Toaster or Pan",
             "process": "Butter the bread slices. Layer tomato and cucumber slices on top, add a cheese slice, and sprinkle oregano. Cover with the second bread slice and grill on a pan until golden brown and crispy on both sides.",
             "serving": "2 peoples",
-            "imageLink": "../assets/sandwich.avif"
+            "imageLink": "https://www.google.com/imgres?q=grilled%20vegetable%20sandwich&imgurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fveg-grilled-sandwich-recipe.jpg&imgrefurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fbombay-veg-grilled-sandwich-recipe%2F&docid=X4hx9xrcSpx_PM&tbnid=MXpw0DIhVwcljM&vet=12ahUKEwiU0Z6s1qmWAxVI2TgGHbUJACAQnPAOegUIkwEQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiU0Z6s1qmWAxVI2TgGHbUJACAQnPAOegUIkwEQAA"
         },
         {
             "id": 5,
@@ -53,7 +53,7 @@
             "utinsils": "Small Saucepan, Spoon",
             "process": "Combine oats and milk in a saucepan. Bring to a gentle boil over medium heat, then simmer for 3-5 minutes while stirring. Pour into a bowl, drizzle with honey, and top with banana slices and fresh berries.",
             "serving": "1 person",
-            "imageLink": "../assets/oatmeal.avif"
+            "imageLink": "https://www.google.com/imgres?q=oatmeal&imgurl=https%3A%2F%2Fwww.veggieinspired.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fhealthy-oatmeal-berries-featured.jpg&imgrefurl=https%3A%2F%2Fwww.veggieinspired.com%2Feasy-sweet-creamy-customizable-healthy-oatmeal%2F&docid=n6fGKAWt-Y6krM&tbnid=U2Q_B_yaSovbcM&vet=12ahUKEwjsieG61qmWAxXw8zgGHVtkICAQnPAOegQIOhAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjsieG61qmWAxXw8zgGHVtkICAQnPAOegQIOhAA"
         },
         {
             "id": 6,
@@ -64,7 +64,7 @@
             "utinsils": "Skillet or Frying Pan",
             "process": "Melt butter in a skillet over high heat. Add whole or halved mushrooms and sear without stirring for 3 minutes. Add garlic and a splash of soy sauce, tossing for another 3-4 minutes until golden. Garnish with parsley.",
             "serving": "2-3 peoples",
-            "imageLink": "../assets/mushrooms.avif"
+            "imageLink": "https://www.google.com/imgres?q=Pan-Seared%20Garlic%20Mushrooms&imgurl=https%3A%2F%2Fimages.immediate.co.uk%2Fproduction%2Fvolatile%2Fsites%2F30%2F2022%2F12%2FGarlic-mushrooms-320ddd6.jpg&imgrefurl=https%3A%2F%2Fwww.bbcgoodfood.com%2Frecipes%2Fgarlic-mushrooms&docid=US7sMSOJa5T0AM&tbnid=JqlVuFVkW_98iM&vet=12ahUKEwjz6f7M1qmWAxUaqWMGHehSJlMQnPAOegQIQxAA..i&w=900&h=836&hcb=2&ved=2ahUKEwjz6f7M1qmWAxUaqWMGHehSJlMQnPAOegQIQxAA"
         }
     ]
 }

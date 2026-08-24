@@ -1,5 +1,4 @@
-{
-  "student":[
+[
   { "name": "Axis", "ID": "LC00017004254", "dep": "BIT", "status": true },
   { "name": "Pukku", "ID": "LC00017004255", "dep": "BIT", "status": false },
   { "name": "Fulla Singh", "ID": "LC00017004256", "dep": "BIT", "status": false },
@@ -104,4 +103,3 @@
   { "name": "Ezra Foster", "ID": "LC00017004354", "dep": "Biology", "status": false },
   { "name": "Paisley Jimenez", "ID": "LC00017004355", "dep": "Engineering", "status": true }
 ]
-}

@@ -1,5 +1,5 @@
 {
-  "studentsData":[
+  "studentsDatas":[
   { "name": "Axis", "ID": "LC00017004254", "dep": "BIT", "status": true },
   { "name": "Pukku", "ID": "LC00017004255", "dep": "BIT", "status": false },
   { "name": "Fulla Singh", "ID": "LC00017004256", "dep": "BIT", "status": false },
